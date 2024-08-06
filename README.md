@@ -86,5 +86,5 @@ Once the server starts, open your web browser and go to the URL provided by Stre
 ```bash
 http://localhost:8501
 ```
-[https://imgur.com/a/5Hwp7rO](https://imgur.com/a/5Hwp7rO)
+[https://i.imgur.com/aaYd2M0.png](https://i.imgur.com/aaYd2M0.png)
 ## Step 4: Run the Streamlit App
