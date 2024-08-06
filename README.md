@@ -68,6 +68,9 @@ Run the following command to install all necessary packages listed in `requireme
 pip install -r requirements.txt
 ```
 
+In addition, download Keysight IO Libraries Suite from the following link:
+[https://www.keysight.com/us/en/lib/software-detail/computer-software/io-libraries-suite-downloads-2175637.html](https://www.keysight.com/us/en/lib/software-detail/computer-software/io-libraries-suite-downloads-2175637.html)
+
 ## Step 4: Run the Streamlit App
 
 Use the following command to run the test application:
@@ -83,3 +86,5 @@ Once the server starts, open your web browser and go to the URL provided by Stre
 ```bash
 http://localhost:8501
 ```
+[https://imgur.com/a/5Hwp7rO](https://imgur.com/a/5Hwp7rO)
+## Step 4: Run the Streamlit App
