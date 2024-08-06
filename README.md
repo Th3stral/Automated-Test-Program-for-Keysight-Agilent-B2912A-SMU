@@ -1,4 +1,4 @@
-# Automated-Test-Program-for-Keysight-Agilent-B2912A-SMU
+# Automated-Test-Program-for-Keysight-Agilent-B2912A-SMU (MEng Project Phase One at UOE)
 An automated test program for Keysight(Agilent) B2912A SMU created based on streamlit and ktb_2900 library
 
 # Setting Up and Running the test program
