@@ -86,5 +86,8 @@ Once the server starts, open your web browser and go to the URL provided by Stre
 ```bash
 http://localhost:8501
 ```
+The default browser will pop up and show a GUI as:
 ![https://i.imgur.com/aaYd2M0.png](https://i.imgur.com/aaYd2M0.png)
-## Step 4: Run the Streamlit App
+## Step 5: Properly Connect the System
+The hardware part of the system should be configured properly as:
+![https://i.imgur.com/n4JXZP6.png](https://i.imgur.com/n4JXZP6.png)
