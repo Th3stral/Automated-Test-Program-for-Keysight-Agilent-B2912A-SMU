@@ -41,10 +41,7 @@ This guide will walk you through the process of installing Python 3.10, navigati
 
 ## Step 2: Navigate to Your Project Directory
 
-Open Terminal or Command Prompt:
-
-Windows: Press Win + R, type cmd, and press Enter.
-macOS/Linux: Open Terminal from your Applications or through Spotlight (macOS).
+Open Terminal or Command Prompt:.
 
 Navigate to Your Project Directory:
 
