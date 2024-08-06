@@ -41,51 +41,42 @@ This guide will walk you through the process of installing Python 3.10, navigati
 
 ## Step 2: Navigate to Your Project Directory
 
-# Open Terminal or Command Prompt:
+Open Terminal or Command Prompt:
 
-# Windows: Press Win + R, type cmd, and press Enter.
-# macOS/Linux: Open Terminal from your Applications or through Spotlight (macOS).
+Windows: Press Win + R, type cmd, and press Enter.
+macOS/Linux: Open Terminal from your Applications or through Spotlight (macOS).
 
-# Navigate to Your Project Directory:
+Navigate to Your Project Directory:
 
+```bash
 cd path/to/your/project/directory
 
-# Replace `path/to/your/project/directory` with the actual path to your project.
+Replace `path/to/your/project/directory` with the actual path to your project.
 
 ## Step 3: Install Dependencies
 
-# Ensure `pip` is Installed:
-# If `pip` is not installed, you can install it by running:
+Ensure `pip` is Installed:
+If `pip` is not installed, you can install it by running:
 
+```bash
 python3.10 -m ensurepip --upgrade
 
-# Install Requirements:
-# Run the following command to install all necessary packages listed in `requirements.txt`:
+Install Requirements:
+Run the following command to install all necessary packages listed in `requirements.txt`:
 
+```bash
 pip install -r requirements.txt
-
-# Ensure that your `requirements.txt` file is in the project directory and contains all required dependencies.
 
 ## Step 4: Run the Streamlit App
 
-# Launch the App:
-# Use the following command to run your Streamlit application:
+Use the following command to run the test application:
 
+
+```bash
 streamlit run app.py
 
-# Replace `app.py` with the name of your Streamlit app file if it is different.
+Access the App:
+Once the server starts, open your web browser and go to the URL provided by Streamlit, typically:
 
-# Access the App:
-# Once the server starts, open your web browser and go to the URL provided by Streamlit, typically:
-
+```bash
 http://localhost:8501
-
-# Troubleshooting:
-# If the default port 8501 is in use, Streamlit will automatically select another port, 
-# or you can specify a custom port using the following command:
-
-streamlit run app.py --server.port 8502
-
-# Again, replace `app.py` with your specific Streamlit application filename, 
-# and replace `8502` with your desired port number.
-
