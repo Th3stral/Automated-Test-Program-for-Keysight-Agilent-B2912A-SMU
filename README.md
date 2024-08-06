@@ -38,6 +38,7 @@ This guide will walk you through the process of installing Python 3.10, navigati
 
    ```bash
    python3.10 --version
+   ```
 
 ## Step 2: Navigate to Your Project Directory
 
@@ -47,6 +48,7 @@ Navigate to Your Project Directory:
 
 ```bash
 cd path/to/your/project/directory
+```
 
 Replace `path/to/your/project/directory` with the actual path to your project.
 
@@ -57,12 +59,14 @@ If `pip` is not installed, you can install it by running:
 
 ```bash
 python3.10 -m ensurepip --upgrade
+```
 
 Install Requirements:
 Run the following command to install all necessary packages listed in `requirements.txt`:
 
 ```bash
 pip install -r requirements.txt
+```
 
 ## Step 4: Run the Streamlit App
 
@@ -71,9 +75,11 @@ Use the following command to run the test application:
 
 ```bash
 streamlit run app.py
+```
 
 Access the App:
 Once the server starts, open your web browser and go to the URL provided by Streamlit, typically:
 
 ```bash
 http://localhost:8501
+```
