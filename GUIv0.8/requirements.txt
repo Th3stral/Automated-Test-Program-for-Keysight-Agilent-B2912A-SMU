@@ -1,0 +1,5 @@
+keysight_ktb2900==1.0.1
+numpy==2.0.1
+pandas==2.2.2
+streamlit==1.35.0
+streamlit_echarts==0.4.0
